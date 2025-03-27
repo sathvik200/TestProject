@@ -70,7 +70,9 @@ if submitted:
     }
 
     df_to_predict = pd.DataFrame(temp_dict)
-    predicted_value = pipeline.predict(df_to_predict)
+    transformed_X_test = pipeline.named_steps["preprocessor"].transform(df_to_predict)
+    
+    predicted_value = pipeline.predict(transformed_X_test)
     
     data = encoder.inverse_transform(predicted_value)
 
