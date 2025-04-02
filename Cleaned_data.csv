@@ -1,211 +1,211 @@
-,Age,Gender,Highest Education Level,Preferred Subjects in Highschool/College,Participation in Extracurricular Activities,Previous Work Experience (If Any),Preferred Work Environment,Risk-Taking Ability ,Leadership Experience,Networking & Social Skills,Tech-Savviness,Financial Stability - self/family (1 is low income and 10 is high income),Long-Term Career Goal,Motivation for Career Choice ,Number of Siblings,What would you like to become when you grow up,CGPA
-0,22,Male,Under Graduate,Science,Culturals,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Good Coding knowledge,6,Government,Social Impact,6,Government Officer,8.7
-1,20,Male,Under Graduate,Science,Sports,No Experience,Research,10.0,No Experience,No Experience,Good Coding knowledge,5,Other,Passion,0,,8.9
-2,20,Male,Under Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Good Coding knowledge,8,Other,Freedom,0,,7.37
-3,18,Female,Under Graduate,Science,Sports,Part Time,Corporate Job,6.0,Student Council Member,Attended Buisness meets,Good Coding knowledge,5,Research,Money,2,Government Officer,8.21
-4,18,Female,High School,Science,Culturals,No Experience,Startup,9.0,Event Management,Attended Conferences,Good Coding knowledge,4,Research,Passion,0,Government Officer,7.37
-5,19,Female,Under Graduate,Science,Not Participated,No Experience,Research,9.0,No Experience,No Experience,Comfortable using newly launched technologies,7,Entrepreneur,Money,1,Entrepreneur,8.5
-6,19,Male,Under Graduate,Science,Not Participated,No Experience,Startup,8.0,No Experience,Attended Conferences,Good Coding knowledge,8,Entrepreneur,Passion,1,Entrepreneur,9.0
-7,19,Female,High School,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Other,Money,0,,9.21
-8,18,Female,High School,Science,Culturals,No Experience,Research,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,5,Entrepreneur,Freedom,1,Entrepreneur,9.49
-9,19,Female,Under Graduate,Science,Not Participated,Part Time,Corporate Job,7.0,Event Management,No Experience,Good Coding knowledge,7,Corporate,Work-life Balance,0,Corporate Employee,8.1
-10,18,Female,Under Graduate,Science,Culturals,No Experience,Research,4.0,No Experience,No Experience,Can efficiently work with AI tools,4,Corporate,Social Impact,1,Corporate Employee,9.58
-11,18,Male,Under Graduate,Commerce,Sports,No Experience,Freelance,7.0,Student Council Member,No Experience,Comfortable using newly launched technologies,2,Corporate,Passion,1,Corporate Employee,9.51
-12,19,Male,Under Graduate,Science,Sports,Part Time,Startup,6.0,Event Management,No Experience,Comfortable using newly launched technologies,8,Research,Money,1,Government Officer,9.05
-13,18,Female,Under Graduate,Science,Culturals,No Experience,Freelance,9.0,No Experience,No Experience,Can efficiently work with AI tools,10,Other,Freedom,1,,8.11
-14,18,Male,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Other,Money,1,,6.9
-15,18,Female,Under Graduate,Commerce,Sports,No Experience,Research,9.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,7,Government,Money,1,Government Officer,9.0
-16,18,Female,Under Graduate,Science,Sports,No Experience,Startup,9.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Other,Freedom,1,Government Officer,9.05
-17,18,Male,Under Graduate,Science,Sports,No Experience,Research,7.0,No Experience,Attended Conferences,Good Coding knowledge,4,Other,Freedom,2,,8.5
-18,19,Male,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Government,Money,1,,8.0
-19,19,Male,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,3,Government,Money,1,,8.21
-20,19,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Entrepreneur,Money,0,Entrepreneur,7.37
-21,18,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Corporate,Money,1,Corporate Employee,7.89
-22,19,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,8,Corporate,Passion,1,Corporate Employee,7.89
-23,21,Male,Under Graduate,Science,Sports,No Experience,Freelance,7.0,Event Management,No Experience,Good Coding knowledge,4,Freelance,Work-life Balance,1,Freelancer,6.69
-24,20,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,6.0,Student Council Member,Attended Buisness meets,Comfortable using newly launched technologies,6,Government,Social Impact,4,Government Officer,9.7
-25,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Entrepreneur,Money,2,Entrepreneur,7.37
-26,20,Female,Under Graduate,Science,Not Participated,No Experience,Startup,3.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Corporate,Money,0,Corporate Employee,0.0
-27,19,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,6,Corporate,Passion,1,Corporate Employee,9.47
-28,19,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,4,Government,Money,0,Government Officer,8.63
-29,18,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,5,Corporate,Passion,0,Corporate Employee,8.74
-30,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Entrepreneur,Money,1,Entrepreneur,7.37
-31,19,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,6,Entrepreneur,Money,1,Entrepreneur,9.79
-32,18,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,6,Corporate,Social Impact,1,Entrepreneur,7.89
-33,19,Female,Under Graduate,Science,Sports,No Experience,Research,6.0,Student Council Member,No Experience,Comfortable using newly launched technologies,6,Other,Work-life Balance,2,Corporate Employee,8.0
-34,18,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,8.65
-35,19,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,9.26
-36,19,Male,Under Graduate,Science,Not Participated,No Experience,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Entrepreneur,Freedom,1,Entrepreneur,6.32
-37,20,Male,Under Graduate,Commerce,Sports,Internship,Research,1.0,No Experience,No Experience,Good Coding knowledge,5,Entrepreneur,Money,2,,7.37
-38,18,Male,High School,Commerce,Sports,No Experience,Startup,9.0,Event Management,No Experience,Good Coding knowledge,8,Entrepreneur,Money,1,Entrepreneur,8.0
-39,18,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,Attended Conferences,Can efficiently work with AI tools,5,Entrepreneur,Money,1,Entrepreneur,9.58
-40,20,Male,High School,Science,Debate,No Experience,Freelance,8.0,No Experience,No Experience,Can efficiently work with AI tools,6,Freelance,Passion,0,Freelancer,7.5
-41,19,Male,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,1.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,4,Other,Money,1,Government Officer,8.07
-42,18,Male,Under Graduate,Science,Not Participated,No Experience,Startup,2.0,Student Council Member,Attended Conferences,Can efficiently work with AI tools,6,Entrepreneur,Passion,2,Corporate Employee,7.89
-43,19,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Other,Passion,1,Corporate Employee,7.26
-44,20,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,8.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,3,Corporate,Freedom,0,Government Officer,9.05
-45,18,Female,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,Attended Conferences,Good Coding knowledge,6,Other,Passion,2,Corporate Employee,8.6
-46,19,Female,Under Graduate,Science,Sports,No Experience,Research,7.0,Event Management,No Experience,Good Coding knowledge,2,Research,Freedom,2,Government Officer,7.79
-47,18,Female,Under Graduate,Science,Sports,No Experience,Startup,8.0,No Experience,Attended Buisness meets,Comfortable using newly launched technologies,9,Government,Money,3,Government Officer,7.0
-48,19,Female,Under Graduate,Science,Sports,No Experience,Startup,8.0,Student Council Member,No Experience,Can efficiently work with AI tools,9,Government,Work-life Balance,1,Government Officer,7.9
-49,20,Male,Under Graduate,Science,Sports,No Experience,Freelance,1.0,No Experience,No Experience,Can efficiently work with AI tools,1,Research,Passion,3,Corporate Employee,6.63
-50,17,Male,Under Graduate,Science,Culturals,No Experience,Freelance,10.0,No Experience,No Experience,Comfortable using newly launched technologies,2,Corporate,Money,1,Corporate Employee,1.05
-51,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Work-life Balance,1,Corporate Employee,9.1
-52,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,6.0,Event Management,Attended Conferences,Can efficiently work with AI tools,7,Other,Freedom,0,Corporate Employee,9.58
-53,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,7,Corporate,Money,1,Corporate Employee,9.3
-54,21,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Other,Work-life Balance,1,Government Officer,9.2
-55,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,7,Entrepreneur,Money,1,Entrepreneur,8.0
-56,21,Female,Under Graduate,Commerce,Sports,No Experience,Corporate Job,5.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Entrepreneur,Money,0,Entrepreneur,9.0
-57,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,7,Entrepreneur,Money,1,Entrepreneur,8.0
-58,21,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,9,Government,Social Impact,4,Government Officer,8.5
-59,20,Female,Under Graduate,Science,Not Participated,Internship,Corporate Job,9.0,No Experience,Attended Corporate events,Good Coding knowledge,7,Corporate,Freedom,1,Corporate Employee,8.2
-60,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,1,Entrepreneur,Money,1,Entrepreneur,8.0
-61,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,5.0,No Experience,Attended Conferences,Can efficiently work with AI tools,5,Other,Money,2,Corporate Employee,8.0
-62,22,Male,Under Graduate,Commerce,Sports,Part Time,Startup,9.0,No Experience,Attended Buisness meets,Comfortable using newly launched technologies,3,Government,Money,1,,5.26
-63,21,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,4,Government,Freedom,0,Government Officer,8.08
-64,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,4,Research,Work-life Balance,0,Research/Scientist,6.0
-65,20,Male,Under Graduate,Commerce,Sports,Part Time,Corporate Job,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Entrepreneur,Work-life Balance,4,Entrepreneur,7.5
-66,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,1,Government,Work-life Balance,1,Government Officer,8.0
-67,21,Male,Under Graduate,Commerce,Not Participated,No Experience,Startup,10.0,No Experience,Attended Corporate events,Good Coding knowledge,10,Corporate,Money,0,Entrepreneur,7.0
-68,21,Male,Under Graduate,Mixed,Sports,Part Time,Freelance,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,1,Other,Money,1,Government Officer,8.3
-69,20,Female,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,No Experience,Good Coding knowledge,7,Corporate,Money,2,Corporate Employee,9.68
-70,20,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,8.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,7,Corporate,Money,2,Corporate Employee,7.0
-71,21,Male,Under Graduate,Science,Not Participated,Internship,Freelance,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Other,Money,1,,8.0
-72,21,Male,Under Graduate,Science,Not Participated,No Experience,Startup,10.0,No Experience,No Experience,Can efficiently work with AI tools,8,Other,Passion,1,Corporate Employee,7.4
-73,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Corporate,Work-life Balance,1,Corporate Employee,8.5
-74,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Startup,6.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Other,Money,2,,7.8
-75,20,Male,Under Graduate,Science,Culturals,No Experience,Startup,8.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Entrepreneur,Money,0,Entrepreneur,7.84
-76,20,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,10.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Work-life Balance,1,Corporate Employee,7.89
-77,20,Male,Under Graduate,Science,Sports,No Experience,Startup,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Other,Money,1,,6.53
-78,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,Event Management,Attended Conferences,Can efficiently work with AI tools,2,Corporate,Work-life Balance,1,Corporate Employee,8.0
-79,20,Female,Under Graduate,Commerce,Sports,Internship,Research,8.0,No Experience,No Experience,Good Coding knowledge,8,Research,Money,1,Government Officer,8.42
-80,21,Male,Under Graduate,Commerce,Culturals,Part Time,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Other,Passion,1,,7.8
-81,21,Male,Under Graduate,Science,Sports,Internship,Freelance,5.0,No Experience,No Experience,Can efficiently work with AI tools,5,Government,Money,1,Government Officer,7.1
-82,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Government,Money,1,Government Officer,8.17
-83,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Good Coding knowledge,5,Entrepreneur,Money,1,Corporate Employee,5.0
-84,21,Male,Under Graduate,Mixed,Sports,Full time,Startup,8.0,Student Council Member,Attended Corporate events,Good Coding knowledge,2,Corporate,Work-life Balance,1,Corporate Employee,9.5
-85,20,Male,Under Graduate,Science,Culturals,Internship,Startup,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,5,Entrepreneur,Passion,1,Entrepreneur,7.6
-86,20,Male,Under Graduate,Science,Sports,No Experience,Startup,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,4,Other,Work-life Balance,2,Entrepreneur,6.9
-87,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,5.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,8,Entrepreneur,Passion,1,Corporate Employee,8.9
-88,20,Male,Under Graduate,Commerce,Not Participated,Part Time,Corporate Job,6.0,No Experience,No Experience,Can efficiently work with AI tools,5,Entrepreneur,Passion,1,Entrepreneur,7.5
-89,21,Male,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,Student Council Member,No Experience,Can efficiently work with AI tools,7,Other,Money,0,,8.85
-90,20,Male,Under Graduate,Science,Sports,Internship,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Government,Money,2,Government Officer,7.0
-91,21,Male,Under Graduate,Commerce,Not Participated,Internship,Startup,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,3,Entrepreneur,Passion,0,Entrepreneur,8.5
-92,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,8.0,Event Management,No Experience,Comfortable using newly launched technologies,7,Corporate,Money,1,Corporate Employee,9.3
-93,21,Male,Under Graduate,Science,Not Participated,Part Time,Freelance,10.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Other,Money,3,,8.3
-94,21,Female,Under Graduate,Mixed,Culturals,No Experience,Research,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,5,Government,Work-life Balance,1,Government Officer,7.96
-95,20,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Can efficiently work with AI tools,10,Government,Social Impact,2,Government Officer,9.3
-96,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,7,Government,Money,7,Government Officer,8.95
-97,23,Female,Post Graduate,Science,Culturals,No Experience,Corporate Job,7.0,Student Council Member,No Experience,Can efficiently work with AI tools,7,Corporate,Work-life Balance,3,Corporate Employee,8.86
-98,20,Female,Under Graduate,Mixed,Debate,Internship,Corporate Job,9.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,7,Corporate,Passion,0,Corporate Employee,9.2
-99,20,Female,Under Graduate,Commerce,Culturals,No Experience,Freelance,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Freelance,Freedom,1,Freelancer,8.0
-100,20,Female,Under Graduate,Science,Not Participated,Internship,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Other,Money,2,,7.0
-101,20,Male,Under Graduate,Commerce,Culturals,Internship,Research,7.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Research,Money,1,Government Officer,7.5
-102,20,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,7,Entrepreneur,Social Impact,1,Entrepreneur,8.6
-103,20,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,7,Corporate,Passion,1,Corporate Employee,7.88
-104,20,Female,Under Graduate,Science,Debate,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,3,Other,Freedom,2,Corporate Employee,8.89
-105,20,Male,Under Graduate,Commerce,Sports,No Experience,Research,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Entrepreneur,Money,1,Entrepreneur,7.84
-106,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Event Management,No Experience,Can efficiently work with AI tools,6,Government,Money,1,Government Officer,8.8
-107,23,Female,Post Graduate,Arts,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,4,Corporate,Freedom,1,Corporate Employee,7.5
-108,21,Male,Under Graduate,Science,Sports,Internship,Startup,4.0,No Experience,No Experience,Can efficiently work with AI tools,5,Other,Money,3,,8.75
-109,21,Male,Under Graduate,Commerce,Not Participated,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,6,Other,Freedom,1,Corporate Employee,7.89
-110,21,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,1,Entrepreneur,Money,0,Entrepreneur,7.0
-111,21,Male,Under Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Entrepreneur,Money,1,Government Officer,8.53
-112,20,Male,Under Graduate,Science,Sports,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Other,Social Impact,1,Government Officer,7.8
-113,20,Female,Under Graduate,Science,Sports,Internship,Startup,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,10,Corporate,Social Impact,1,Corporate Employee,8.6
-114,20,Male,Under Graduate,Commerce,Sports,No Experience,Freelance,10.0,No Experience,No Experience,Good Coding knowledge,5,Government,Money,1,Government Officer,7.6
-115,22,Male,Post Graduate,Mixed,Culturals,Part Time,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,2,Corporate,Money,1,Government Officer,7.9
-116,20,Male,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Good Coding knowledge,3,Corporate,Money,0,Corporate Employee,8.6
-117,21,Male,Under Graduate,Science,Sports,Part Time,Freelance,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,8,Other,Freedom,0,Entrepreneur,8.0
-118,20,Male,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Student Council Member,Attended Buisness meets,Comfortable using newly launched technologies,10,Government,Money,0,Entrepreneur,8.56
-119,20,Male,Under Graduate,Science,Sports,No Experience,Corporate Job,7.0,Student Council Member,Attended Conferences,Good Coding knowledge,7,Corporate,Money,1,Corporate Employee,7.6
-120,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,10,Corporate,Social Impact,1,Corporate Employee,7.2
-121,21,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Event Management,No Experience,Good Coding knowledge,5,Corporate,Money,1,Corporate Employee,9.4
-122,22,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,2,Corporate,Money,1,Corporate Employee,8.0
-123,21,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,9.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,4,Entrepreneur,Work-life Balance,1,Corporate Employee,7.86
-124,24,Female,Post Graduate,Science,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,8,Corporate,Money,2,Government Officer,7.6
-125,20,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,5,Entrepreneur,Money,1,Entrepreneur,8.6
-126,21,Male,Under Graduate,Science,Not Participated,Internship,Corporate Job,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,6,Corporate,Money,2,Corporate Employee,6.4
-127,20,Male,High School,Science,Sports,No Experience,Corporate Job,10.0,No Experience,Attended Corporate events,Good Coding knowledge,10,Government,Money,4,,8.0
-128,20,Female,Under Graduate,Commerce,Sports,Internship,Freelance,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,5,Government,Money,1,Government Officer,8.6
-129,23,Male,Post Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,5,Corporate,Money,2,Corporate Employee,6.0
-130,21,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,6.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,10,Corporate,Social Impact,1,Corporate Employee,8.56
-131,20,Male,High School,Commerce,Sports,Internship,Corporate Job,10.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,3,Corporate,Money,1,Corporate Employee,7.5
-132,22,Female,Post Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Passion,1,Corporate Employee,8.39
-133,23,Female,Post Graduate,Science,Culturals,No Experience,Corporate Job,9.0,Student Council Member,No Experience,Comfortable using newly launched technologies,4,Corporate,Passion,1,Corporate Employee,9.07
-134,19,Male,Under Graduate,Science,Sports,Internship,Startup,8.0,Event Management,No Experience,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,7.5
-135,20,Female,Under Graduate,Commerce,Culturals,Part Time,Startup,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,4,Entrepreneur,Money,1,Government Officer,7.89
-136,2,Female,Under Graduate,Science,Sports,Internship,Corporate Job,6.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Corporate,Money,1,Corporate Employee,7.0
-137,20,Male,Under Graduate,Science,Culturals,Internship,Corporate Job,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,7,Corporate,Passion,1,Corporate Employee,8.6
-138,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,6.0,No Experience,Attended Corporate events,Good Coding knowledge,2,Corporate,Passion,1,Corporate Employee,8.8
-139,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,9.0,No Experience,No Experience,Can efficiently work with AI tools,5,Corporate,Passion,1,Corporate Employee,9.48
-140,20,Male,Post Graduate,Science,Sports,Internship,Corporate Job,10.0,Event Management,No Experience,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,7.5
-141,20,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,Event Management,No Experience,Can efficiently work with AI tools,4,Corporate,Passion,1,Corporate Employee,9.42
-142,21,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,Event Management,No Experience,Good Coding knowledge,5,Entrepreneur,Money,1,Entrepreneur,7.6
-143,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,1,Corporate,Work-life Balance,1,Corporate Employee,9.3
-144,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,1,Entrepreneur,Work-life Balance,1,Entrepreneur,9.0
-145,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,9.0,Event Management,No Experience,Comfortable using newly launched technologies,6,Entrepreneur,Money,1,Entrepreneur,8.4
-146,24,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,9.0,Student Council Member,No Experience,Can efficiently work with AI tools,5,Government,Passion,0,Government Officer,6.32
-147,25,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,Student Council Member,Attended Conferences,Can efficiently work with AI tools,7,Government,Work-life Balance,1,Government Officer,8.14
-148,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,Event Management,No Experience,Can efficiently work with AI tools,7,Corporate,Passion,1,Corporate Employee,7.78
-149,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Comfortable using newly launched technologies,6,Corporate,Money,0,Corporate Employee,9.1
-150,22,Female,Post Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,Event Management,No Experience,Can efficiently work with AI tools,5,Corporate,Passion,1,Government Officer,8.53
-151,20,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Good Coding knowledge,5,Entrepreneur,Money,1,Entrepreneur,7.5
-152,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Corporate,Money,2,Government Officer,7.39
-153,22,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,6,Corporate,Money,1,Government Officer,7.81
-154,21,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,10.0,Student Council Member,Attended Conferences,Good Coding knowledge,5,Corporate,Passion,0,Research/Scientist,9.4
-155,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,8,Entrepreneur,Money,1,Entrepreneur,8.9
-156,20,Female,Under Graduate,Commerce,Not Participated,Internship,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,6,Corporate,Work-life Balance,1,Corporate Employee,7.5
-157,21,Female,Under Graduate,Science,Debate,Internship,Corporate Job,8.0,Student Council Member,Attended Corporate events,Good Coding knowledge,6,Corporate,Money,1,Corporate Employee,8.4
-158,22,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Work-life Balance,2,Corporate Employee,7.3
-159,22,Female,Post Graduate,Commerce,Not Participated,No Experience,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,3,Corporate,Work-life Balance,1,Corporate Employee,8.05
-160,22,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,3,Other,Work-life Balance,0,,8.7
-161,23,Male,Post Graduate,Science,Culturals,Internship,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Passion,2,Corporate Employee,6.66
-162,20,Male,Under Graduate,Commerce,Sports,No Experience,Research,5.0,No Experience,No Experience,Good Coding knowledge,5,Entrepreneur,Passion,3,Entrepreneur,8.2
-163,20,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Event Management,Attended Corporate events,Good Coding knowledge,8,Corporate,Money,1,Corporate Employee,8.58
-164,20,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,8.15
-165,20,Female,Under Graduate,Science,Sports,Internship,Corporate Job,9.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,5,Government,Passion,1,Government Officer,8.24
-166,21,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Good Coding knowledge,7,Corporate,Work-life Balance,1,Corporate Employee,9.59
-167,25,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Research,Passion,1,Corporate Employee,6.5
-168,22,Male,Post Graduate,Science,Sports,No Experience,Startup,2.0,Event Management,Attended Buisness meets,Good Coding knowledge,10,Entrepreneur,Work-life Balance,1,Entrepreneur,7.7
-169,20,Male,Under Graduate,Science,Sports,Internship,Startup,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,7,Research,Money,1,Freelancer,7.0
-170,21,Male,Post Graduate,Science,Not Participated,No Experience,Startup,9.0,No Experience,No Experience,Good Coding knowledge,4,Corporate,Work-life Balance,1,Corporate Employee,6.9
-171,20,Female,Under Graduate,Science,Not Participated,Internship,Startup,10.0,Event Management,No Experience,Good Coding knowledge,10,Entrepreneur,Money,0,Entrepreneur,7.5
-172,23,Female,Post Graduate,Science,Culturals,Internship,Corporate Job,9.0,No Experience,No Experience,Can efficiently work with AI tools,8,Government,Freedom,0,Government Officer,9.61
-173,23,Male,Post Graduate,Science,Sports,Internship,Freelance,9.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,7,Entrepreneur,Passion,0,Government Officer,7.0
-174,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,8.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,2,Corporate,Work-life Balance,1,Government Officer,8.7
-175,21,Male,Post Graduate,Science,Culturals,Internship,Corporate Job,8.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,6,Government,Money,1,Entrepreneur,7.5
-176,23,Male,Post Graduate,Science,Culturals,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Corporate,Passion,0,Corporate Employee,7.5
-177,21,Male,Post Graduate,Science,Culturals,No Experience,Corporate Job,10.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,5,Corporate,Money,1,Corporate Employee,8.01
-178,20,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,4,Corporate,Money,1,Corporate Employee,9.12
-179,21,Female,Under Graduate,Commerce,Culturals,No Experience,Startup,10.0,Event Management,No Experience,Can efficiently work with AI tools,2,Corporate,Freedom,1,Corporate Employee,9.26
-180,23,Male,Post Graduate,Science,Sports,No Experience,Startup,8.0,Student Council Member,Attended Corporate events,Can efficiently work with AI tools,9,Government,Passion,1,Government Officer,8.16
-181,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,6.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,4,Entrepreneur,Passion,1,Entrepreneur,8.9
-182,20,Female,Under Graduate,Commerce,Not Participated,No Experience,Startup,5.0,No Experience,No Experience,Can efficiently work with AI tools,8,Other,Passion,0,Government Officer,9.08
-183,20,Female,Post Graduate,Commerce,Culturals,Part Time,Startup,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,5,Other,Work-life Balance,1,Research/Scientist,8.6
-184,20,Female,Under Graduate,Science,Culturals,Internship,Corporate Job,6.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,1,Corporate,Work-life Balance,0,Corporate Employee,8.7
-185,20,Female,Under Graduate,Science,Culturals,Internship,Corporate Job,8.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,1,Corporate,Social Impact,1,Corporate Employee,8.61
-186,20,Female,Under Graduate,Science,Culturals,No Experience,Freelance,5.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,4,Freelance,Work-life Balance,1,Freelancer,8.4
-187,21,Male,Under Graduate,Science,Sports,No Experience,Freelance,5.0,No Experience,No Experience,Good Coding knowledge,5,Government,Freedom,3,,9.0
-188,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Corporate,Money,0,Corporate Employee,9.45
-189,22,Male,Post Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Entrepreneur,Passion,2,Entrepreneur,8.21
-190,21,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,9.0,No Experience,No Experience,Good Coding knowledge,7,Corporate,Passion,1,Corporate Employee,9.0
-191,22,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Good Coding knowledge,5,Entrepreneur,Money,0,Entrepreneur,8.0
-192,21,Male,Under Graduate,Science,Debate,Part Time,Corporate Job,5.0,Event Management,No Experience,Good Coding knowledge,3,Entrepreneur,Social Impact,0,Entrepreneur,9.68
-193,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,10,Corporate,Passion,1,Corporate Employee,7.89
-194,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,10.0,Event Management,Attended Conferences,Good Coding knowledge,5,Corporate,Work-life Balance,0,Corporate Employee,8.87
-195,22,Female,Post Graduate,Science,Debate,No Experience,Corporate Job,2.0,Event Management,Attended Corporate events,Good Coding knowledge,6,Corporate,Passion,1,Corporate Employee,9.02
-196,23,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,6.0,No Experience,Attended Corporate events,Good Coding knowledge,8,Research,Work-life Balance,1,Government Officer,8.1
-197,23,Male,Under Graduate,Science,Culturals,Part Time,Corporate Job,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,2,Entrepreneur,Work-life Balance,1,Corporate Employee,8.2
-198,20,Female,Under Graduate,Science,Culturals,Internship,Startup,10.0,Event Management,No Experience,Can efficiently work with AI tools,10,Entrepreneur,Money,1,Entrepreneur,8.2
-199,22,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,7,Corporate,Money,2,Corporate Employee,9.16
-200,22,Male,Post Graduate,Science,Sports,Internship,Startup,8.0,No Experience,No Experience,Good Coding knowledge,5,Government,Money,0,Government Officer,6.56
-201,21,Male,Post Graduate,Commerce,Sports,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Corporate,Work-life Balance,2,Corporate Employee,6.0
-202,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,5.0,No Experience,Attended Corporate events,Good Coding knowledge,5,Corporate,Work-life Balance,1,Corporate Employee,9.06
-203,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Good Coding knowledge,5,Corporate,Passion,1,Corporate Employee,8.3
-204,20,Female,Post Graduate,Commerce,Sports,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,5,Government,Money,1,Corporate Employee,8.5
-205,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,4,Corporate,Money,1,Corporate Employee,9.35
-206,20,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,Student Council Member,No Experience,Comfortable using newly launched technologies,6,Corporate,Work-life Balance,1,,9.6
-207,21,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,No Experience,No Experience,Good Coding knowledge,3,Entrepreneur,Passion,1,Entrepreneur,9.28
-208,20,Male,High School,Commerce,Sports,Internship,Freelance,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,1,Other,Work-life Balance,1,,7.0
-209,23,Female,Post Graduate,Science,Culturals,Internship,Corporate Job,8.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,8,Corporate,Passion,3,Government Officer,7.7
+,Age,Gender,Highest Education Level,Preferred Subjects in Highschool/College,Participation in Extracurricular Activities,Previous Work Experience (If Any),Preferred Work Environment,Risk-Taking Ability ,Leadership Experience,Networking & Social Skills,Tech-Savviness,Financial Stability - self/family (1 is low income and 10 is high income),Motivation for Career Choice ,Number of Siblings,What would you like to become when you grow up,CGPA
+0,22,Male,Under Graduate,Science,Culturals,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Good Coding knowledge,6,Social Impact,6,Government Officer,8.7
+1,20,Male,Under Graduate,Science,Sports,No Experience,Research,10.0,No Experience,No Experience,Good Coding knowledge,5,Passion,0,,8.9
+2,20,Male,Under Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Good Coding knowledge,8,Freedom,0,,7.37
+3,18,Female,Under Graduate,Science,Sports,Part Time,Corporate Job,6.0,Student Council Member,Attended Buisness meets,Good Coding knowledge,5,Money,2,Government Officer,8.21
+4,18,Female,High School,Science,Culturals,No Experience,Startup,9.0,Event Management,Attended Conferences,Good Coding knowledge,4,Passion,0,Government Officer,7.37
+5,19,Female,Under Graduate,Science,Not Participated,No Experience,Research,9.0,No Experience,No Experience,Comfortable using newly launched technologies,7,Money,1,Entrepreneur,8.5
+6,19,Male,Under Graduate,Science,Not Participated,No Experience,Startup,8.0,No Experience,Attended Conferences,Good Coding knowledge,8,Passion,1,Entrepreneur,9.0
+7,19,Female,High School,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Money,0,,9.21
+8,18,Female,High School,Science,Culturals,No Experience,Research,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,5,Freedom,1,Entrepreneur,9.49
+9,19,Female,Under Graduate,Science,Not Participated,Part Time,Corporate Job,7.0,Event Management,No Experience,Good Coding knowledge,7,Work-life Balance,0,Corporate Employee,8.1
+10,18,Female,Under Graduate,Science,Culturals,No Experience,Research,4.0,No Experience,No Experience,Can efficiently work with AI tools,4,Social Impact,1,Corporate Employee,9.58
+11,18,Male,Under Graduate,Commerce,Sports,No Experience,Freelance,7.0,Student Council Member,No Experience,Comfortable using newly launched technologies,2,Passion,1,Corporate Employee,9.51
+12,19,Male,Under Graduate,Science,Sports,Part Time,Startup,6.0,Event Management,No Experience,Comfortable using newly launched technologies,8,Money,1,Government Officer,9.05
+13,18,Female,Under Graduate,Science,Culturals,No Experience,Freelance,9.0,No Experience,No Experience,Can efficiently work with AI tools,10,Freedom,1,,8.11
+14,18,Male,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Money,1,,6.9
+15,18,Female,Under Graduate,Commerce,Sports,No Experience,Research,9.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,7,Money,1,Government Officer,9.0
+16,18,Female,Under Graduate,Science,Sports,No Experience,Startup,9.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Freedom,1,Government Officer,9.05
+17,18,Male,Under Graduate,Science,Sports,No Experience,Research,7.0,No Experience,Attended Conferences,Good Coding knowledge,4,Freedom,2,,8.5
+18,19,Male,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Money,1,,8.0
+19,19,Male,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,3,Money,1,,8.21
+20,19,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Money,0,Entrepreneur,7.37
+21,18,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,5,Money,1,Corporate Employee,7.89
+22,19,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,8,Passion,1,Corporate Employee,7.89
+23,21,Male,Under Graduate,Science,Sports,No Experience,Freelance,7.0,Event Management,No Experience,Good Coding knowledge,4,Work-life Balance,1,Freelancer,6.69
+24,20,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,6.0,Student Council Member,Attended Buisness meets,Comfortable using newly launched technologies,6,Social Impact,4,Government Officer,9.7
+25,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Money,2,Entrepreneur,7.37
+26,20,Female,Under Graduate,Science,Not Participated,No Experience,Startup,3.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Money,0,Corporate Employee,0.0
+27,19,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,6,Passion,1,Corporate Employee,9.47
+28,19,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,4,Money,0,Government Officer,8.63
+29,18,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,10.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,5,Passion,0,Corporate Employee,8.74
+30,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Money,1,Entrepreneur,7.37
+31,19,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,6,Money,1,Entrepreneur,9.79
+32,18,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,6,Social Impact,1,Entrepreneur,7.89
+33,19,Female,Under Graduate,Science,Sports,No Experience,Research,6.0,Student Council Member,No Experience,Comfortable using newly launched technologies,6,Work-life Balance,2,Corporate Employee,8.0
+34,18,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,8.65
+35,19,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,9.26
+36,19,Male,Under Graduate,Science,Not Participated,No Experience,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Freedom,1,Entrepreneur,6.32
+37,20,Male,Under Graduate,Commerce,Sports,Internship,Research,1.0,No Experience,No Experience,Good Coding knowledge,5,Money,2,,7.37
+38,18,Male,High School,Commerce,Sports,No Experience,Startup,9.0,Event Management,No Experience,Good Coding knowledge,8,Money,1,Entrepreneur,8.0
+39,18,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,Attended Conferences,Can efficiently work with AI tools,5,Money,1,Entrepreneur,9.58
+40,20,Male,High School,Science,Debate,No Experience,Freelance,8.0,No Experience,No Experience,Can efficiently work with AI tools,6,Passion,0,Freelancer,7.5
+41,19,Male,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,1.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,4,Money,1,Government Officer,8.07
+42,18,Male,Under Graduate,Science,Not Participated,No Experience,Startup,2.0,Student Council Member,Attended Conferences,Can efficiently work with AI tools,6,Passion,2,Corporate Employee,7.89
+43,19,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Passion,1,Corporate Employee,7.26
+44,20,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,8.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,3,Freedom,0,Government Officer,9.05
+45,18,Female,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,Attended Conferences,Good Coding knowledge,6,Passion,2,Corporate Employee,8.6
+46,19,Female,Under Graduate,Science,Sports,No Experience,Research,7.0,Event Management,No Experience,Good Coding knowledge,2,Freedom,2,Government Officer,7.79
+47,18,Female,Under Graduate,Science,Sports,No Experience,Startup,8.0,No Experience,Attended Buisness meets,Comfortable using newly launched technologies,9,Money,3,Government Officer,7.0
+48,19,Female,Under Graduate,Science,Sports,No Experience,Startup,8.0,Student Council Member,No Experience,Can efficiently work with AI tools,9,Work-life Balance,1,Government Officer,7.9
+49,20,Male,Under Graduate,Science,Sports,No Experience,Freelance,1.0,No Experience,No Experience,Can efficiently work with AI tools,1,Passion,3,Corporate Employee,6.63
+50,17,Male,Under Graduate,Science,Culturals,No Experience,Freelance,10.0,No Experience,No Experience,Comfortable using newly launched technologies,2,Money,1,Corporate Employee,1.05
+51,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Work-life Balance,1,Corporate Employee,9.1
+52,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,6.0,Event Management,Attended Conferences,Can efficiently work with AI tools,7,Freedom,0,Corporate Employee,9.58
+53,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,7,Money,1,Corporate Employee,9.3
+54,21,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Work-life Balance,1,Government Officer,9.2
+55,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,7,Money,1,Entrepreneur,8.0
+56,21,Female,Under Graduate,Commerce,Sports,No Experience,Corporate Job,5.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Money,0,Entrepreneur,9.0
+57,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,7,Money,1,Entrepreneur,8.0
+58,21,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,9,Social Impact,4,Government Officer,8.5
+59,20,Female,Under Graduate,Science,Not Participated,Internship,Corporate Job,9.0,No Experience,Attended Corporate events,Good Coding knowledge,7,Freedom,1,Corporate Employee,8.2
+60,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,1,Money,1,Entrepreneur,8.0
+61,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,5.0,No Experience,Attended Conferences,Can efficiently work with AI tools,5,Money,2,Corporate Employee,8.0
+62,22,Male,Under Graduate,Commerce,Sports,Part Time,Startup,9.0,No Experience,Attended Buisness meets,Comfortable using newly launched technologies,3,Money,1,,5.26
+63,21,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,4,Freedom,0,Government Officer,8.08
+64,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,4,Work-life Balance,0,Research/Scientist,6.0
+65,20,Male,Under Graduate,Commerce,Sports,Part Time,Corporate Job,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Work-life Balance,4,Entrepreneur,7.5
+66,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,1,Work-life Balance,1,Government Officer,8.0
+67,21,Male,Under Graduate,Commerce,Not Participated,No Experience,Startup,10.0,No Experience,Attended Corporate events,Good Coding knowledge,10,Money,0,Entrepreneur,7.0
+68,21,Male,Under Graduate,Mixed,Sports,Part Time,Freelance,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,1,Money,1,Government Officer,8.3
+69,20,Female,Under Graduate,Science,Not Participated,No Experience,Startup,7.0,No Experience,No Experience,Good Coding knowledge,7,Money,2,Corporate Employee,9.68
+70,20,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,8.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,7,Money,2,Corporate Employee,7.0
+71,21,Male,Under Graduate,Science,Not Participated,Internship,Freelance,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Money,1,,8.0
+72,21,Male,Under Graduate,Science,Not Participated,No Experience,Startup,10.0,No Experience,No Experience,Can efficiently work with AI tools,8,Passion,1,Corporate Employee,7.4
+73,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Work-life Balance,1,Corporate Employee,8.5
+74,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Startup,6.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Money,2,,7.8
+75,20,Male,Under Graduate,Science,Culturals,No Experience,Startup,8.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Money,0,Entrepreneur,7.84
+76,20,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,10.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Work-life Balance,1,Corporate Employee,7.89
+77,20,Male,Under Graduate,Science,Sports,No Experience,Startup,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Money,1,,6.53
+78,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,Event Management,Attended Conferences,Can efficiently work with AI tools,2,Work-life Balance,1,Corporate Employee,8.0
+79,20,Female,Under Graduate,Commerce,Sports,Internship,Research,8.0,No Experience,No Experience,Good Coding knowledge,8,Money,1,Government Officer,8.42
+80,21,Male,Under Graduate,Commerce,Culturals,Part Time,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,8,Passion,1,,7.8
+81,21,Male,Under Graduate,Science,Sports,Internship,Freelance,5.0,No Experience,No Experience,Can efficiently work with AI tools,5,Money,1,Government Officer,7.1
+82,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Money,1,Government Officer,8.17
+83,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Good Coding knowledge,5,Money,1,Corporate Employee,5.0
+84,21,Male,Under Graduate,Mixed,Sports,Full time,Startup,8.0,Student Council Member,Attended Corporate events,Good Coding knowledge,2,Work-life Balance,1,Corporate Employee,9.5
+85,20,Male,Under Graduate,Science,Culturals,Internship,Startup,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,5,Passion,1,Entrepreneur,7.6
+86,20,Male,Under Graduate,Science,Sports,No Experience,Startup,10.0,Student Council Member,No Experience,Comfortable using newly launched technologies,4,Work-life Balance,2,Entrepreneur,6.9
+87,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,5.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,8,Passion,1,Corporate Employee,8.9
+88,20,Male,Under Graduate,Commerce,Not Participated,Part Time,Corporate Job,6.0,No Experience,No Experience,Can efficiently work with AI tools,5,Passion,1,Entrepreneur,7.5
+89,21,Male,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,Student Council Member,No Experience,Can efficiently work with AI tools,7,Money,0,,8.85
+90,20,Male,Under Graduate,Science,Sports,Internship,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,4,Money,2,Government Officer,7.0
+91,21,Male,Under Graduate,Commerce,Not Participated,Internship,Startup,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,3,Passion,0,Entrepreneur,8.5
+92,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,8.0,Event Management,No Experience,Comfortable using newly launched technologies,7,Money,1,Corporate Employee,9.3
+93,21,Male,Under Graduate,Science,Not Participated,Part Time,Freelance,10.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Money,3,,8.3
+94,21,Female,Under Graduate,Mixed,Culturals,No Experience,Research,9.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,5,Work-life Balance,1,Government Officer,7.96
+95,20,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Can efficiently work with AI tools,10,Social Impact,2,Government Officer,9.3
+96,20,Male,Under Graduate,Commerce,Sports,No Experience,Startup,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,7,Money,7,Government Officer,8.95
+97,23,Female,Post Graduate,Science,Culturals,No Experience,Corporate Job,7.0,Student Council Member,No Experience,Can efficiently work with AI tools,7,Work-life Balance,3,Corporate Employee,8.86
+98,20,Female,Under Graduate,Mixed,Debate,Internship,Corporate Job,9.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,7,Passion,0,Corporate Employee,9.2
+99,20,Female,Under Graduate,Commerce,Culturals,No Experience,Freelance,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Freedom,1,Freelancer,8.0
+100,20,Female,Under Graduate,Science,Not Participated,Internship,Startup,10.0,No Experience,Attended Conferences,Can efficiently work with AI tools,10,Money,2,,7.0
+101,20,Male,Under Graduate,Commerce,Culturals,Internship,Research,7.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Money,1,Government Officer,7.5
+102,20,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,7,Social Impact,1,Entrepreneur,8.6
+103,20,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,7,Passion,1,Corporate Employee,7.88
+104,20,Female,Under Graduate,Science,Debate,No Experience,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,3,Freedom,2,Corporate Employee,8.89
+105,20,Male,Under Graduate,Commerce,Sports,No Experience,Research,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Money,1,Entrepreneur,7.84
+106,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Event Management,No Experience,Can efficiently work with AI tools,6,Money,1,Government Officer,8.8
+107,23,Female,Post Graduate,Arts,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Good Coding knowledge,4,Freedom,1,Corporate Employee,7.5
+108,21,Male,Under Graduate,Science,Sports,Internship,Startup,4.0,No Experience,No Experience,Can efficiently work with AI tools,5,Money,3,,8.75
+109,21,Male,Under Graduate,Commerce,Not Participated,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,6,Freedom,1,Corporate Employee,7.89
+110,21,Male,Under Graduate,Commerce,Sports,No Experience,Startup,10.0,No Experience,No Experience,Comfortable using newly launched technologies,1,Money,0,Entrepreneur,7.0
+111,21,Male,Under Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Money,1,Government Officer,8.53
+112,20,Male,Under Graduate,Science,Sports,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,6,Social Impact,1,Government Officer,7.8
+113,20,Female,Under Graduate,Science,Sports,Internship,Startup,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,10,Social Impact,1,Corporate Employee,8.6
+114,20,Male,Under Graduate,Commerce,Sports,No Experience,Freelance,10.0,No Experience,No Experience,Good Coding knowledge,5,Money,1,Government Officer,7.6
+115,22,Male,Post Graduate,Mixed,Culturals,Part Time,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,2,Money,1,Government Officer,7.9
+116,20,Male,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Good Coding knowledge,3,Money,0,Corporate Employee,8.6
+117,21,Male,Under Graduate,Science,Sports,Part Time,Freelance,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,8,Freedom,0,Entrepreneur,8.0
+118,20,Male,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Student Council Member,Attended Buisness meets,Comfortable using newly launched technologies,10,Money,0,Entrepreneur,8.56
+119,20,Male,Under Graduate,Science,Sports,No Experience,Corporate Job,7.0,Student Council Member,Attended Conferences,Good Coding knowledge,7,Money,1,Corporate Employee,7.6
+120,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,10,Social Impact,1,Corporate Employee,7.2
+121,21,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Event Management,No Experience,Good Coding knowledge,5,Money,1,Corporate Employee,9.4
+122,22,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,10.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,2,Money,1,Corporate Employee,8.0
+123,21,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,9.0,Event Management,Attended Buisness meets,Comfortable using newly launched technologies,4,Work-life Balance,1,Corporate Employee,7.86
+124,24,Female,Post Graduate,Science,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,8,Money,2,Government Officer,7.6
+125,20,Male,Under Graduate,Commerce,Sports,Internship,Startup,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,5,Money,1,Entrepreneur,8.6
+126,21,Male,Under Graduate,Science,Not Participated,Internship,Corporate Job,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,6,Money,2,Corporate Employee,6.4
+127,20,Male,High School,Science,Sports,No Experience,Corporate Job,10.0,No Experience,Attended Corporate events,Good Coding knowledge,10,Money,4,,8.0
+128,20,Female,Under Graduate,Commerce,Sports,Internship,Freelance,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,5,Money,1,Government Officer,8.6
+129,23,Male,Post Graduate,Science,Not Participated,No Experience,Corporate Job,7.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,5,Money,2,Corporate Employee,6.0
+130,21,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,6.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,10,Social Impact,1,Corporate Employee,8.56
+131,20,Male,High School,Commerce,Sports,Internship,Corporate Job,10.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,3,Money,1,Corporate Employee,7.5
+132,22,Female,Post Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Passion,1,Corporate Employee,8.39
+133,23,Female,Post Graduate,Science,Culturals,No Experience,Corporate Job,9.0,Student Council Member,No Experience,Comfortable using newly launched technologies,4,Passion,1,Corporate Employee,9.07
+134,19,Male,Under Graduate,Science,Sports,Internship,Startup,8.0,Event Management,No Experience,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,7.5
+135,20,Female,Under Graduate,Commerce,Culturals,Part Time,Startup,10.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,4,Money,1,Government Officer,7.89
+136,2,Female,Under Graduate,Science,Sports,Internship,Corporate Job,6.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,8,Money,1,Corporate Employee,7.0
+137,20,Male,Under Graduate,Science,Culturals,Internship,Corporate Job,10.0,Event Management,Attended Buisness meets,Can efficiently work with AI tools,7,Passion,1,Corporate Employee,8.6
+138,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,6.0,No Experience,Attended Corporate events,Good Coding knowledge,2,Passion,1,Corporate Employee,8.8
+139,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,9.0,No Experience,No Experience,Can efficiently work with AI tools,5,Passion,1,Corporate Employee,9.48
+140,20,Male,Post Graduate,Science,Sports,Internship,Corporate Job,10.0,Event Management,No Experience,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,7.5
+141,20,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,10.0,Event Management,No Experience,Can efficiently work with AI tools,4,Passion,1,Corporate Employee,9.42
+142,21,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,Event Management,No Experience,Good Coding knowledge,5,Money,1,Entrepreneur,7.6
+143,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,1,Work-life Balance,1,Corporate Employee,9.3
+144,20,Female,Under Graduate,Science,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,1,Work-life Balance,1,Entrepreneur,9.0
+145,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,9.0,Event Management,No Experience,Comfortable using newly launched technologies,6,Money,1,Entrepreneur,8.4
+146,24,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,9.0,Student Council Member,No Experience,Can efficiently work with AI tools,5,Passion,0,Government Officer,6.32
+147,25,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,Student Council Member,Attended Conferences,Can efficiently work with AI tools,7,Work-life Balance,1,Government Officer,8.14
+148,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,8.0,Event Management,No Experience,Can efficiently work with AI tools,7,Passion,1,Corporate Employee,7.78
+149,21,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Comfortable using newly launched technologies,6,Money,0,Corporate Employee,9.1
+150,22,Female,Post Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,Event Management,No Experience,Can efficiently work with AI tools,5,Passion,1,Government Officer,8.53
+151,20,Male,Under Graduate,Commerce,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Good Coding knowledge,5,Money,1,Entrepreneur,7.5
+152,20,Male,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,6,Money,2,Government Officer,7.39
+153,22,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,No Experience,No Experience,Can efficiently work with AI tools,6,Money,1,Government Officer,7.81
+154,21,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,10.0,Student Council Member,Attended Conferences,Good Coding knowledge,5,Passion,0,Research/Scientist,9.4
+155,21,Female,Under Graduate,Science,Sports,Internship,Corporate Job,7.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,8,Money,1,Entrepreneur,8.9
+156,20,Female,Under Graduate,Commerce,Not Participated,Internship,Corporate Job,10.0,No Experience,No Experience,Can efficiently work with AI tools,6,Work-life Balance,1,Corporate Employee,7.5
+157,21,Female,Under Graduate,Science,Debate,Internship,Corporate Job,8.0,Student Council Member,Attended Corporate events,Good Coding knowledge,6,Money,1,Corporate Employee,8.4
+158,22,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Work-life Balance,2,Corporate Employee,7.3
+159,22,Female,Post Graduate,Commerce,Not Participated,No Experience,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,3,Work-life Balance,1,Corporate Employee,8.05
+160,22,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,3,Work-life Balance,0,,8.7
+161,23,Male,Post Graduate,Science,Culturals,Internship,Corporate Job,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Passion,2,Corporate Employee,6.66
+162,20,Male,Under Graduate,Commerce,Sports,No Experience,Research,5.0,No Experience,No Experience,Good Coding knowledge,5,Passion,3,Entrepreneur,8.2
+163,20,Female,Under Graduate,Commerce,Culturals,Internship,Startup,10.0,Event Management,Attended Corporate events,Good Coding knowledge,8,Money,1,Corporate Employee,8.58
+164,20,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,8.15
+165,20,Female,Under Graduate,Science,Sports,Internship,Corporate Job,9.0,Event Management,Attended Corporate events,Can efficiently work with AI tools,5,Passion,1,Government Officer,8.24
+166,21,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,Event Management,No Experience,Good Coding knowledge,7,Work-life Balance,1,Corporate Employee,9.59
+167,25,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Passion,1,Corporate Employee,6.5
+168,22,Male,Post Graduate,Science,Sports,No Experience,Startup,2.0,Event Management,Attended Buisness meets,Good Coding knowledge,10,Work-life Balance,1,Entrepreneur,7.7
+169,20,Male,Under Graduate,Science,Sports,Internship,Startup,7.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,7,Money,1,Freelancer,7.0
+170,21,Male,Post Graduate,Science,Not Participated,No Experience,Startup,9.0,No Experience,No Experience,Good Coding knowledge,4,Work-life Balance,1,Corporate Employee,6.9
+171,20,Female,Under Graduate,Science,Not Participated,Internship,Startup,10.0,Event Management,No Experience,Good Coding knowledge,10,Money,0,Entrepreneur,7.5
+172,23,Female,Post Graduate,Science,Culturals,Internship,Corporate Job,9.0,No Experience,No Experience,Can efficiently work with AI tools,8,Freedom,0,Government Officer,9.61
+173,23,Male,Post Graduate,Science,Sports,Internship,Freelance,9.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,7,Passion,0,Government Officer,7.0
+174,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,8.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,2,Work-life Balance,1,Government Officer,8.7
+175,21,Male,Post Graduate,Science,Culturals,Internship,Corporate Job,8.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,6,Money,1,Entrepreneur,7.5
+176,23,Male,Post Graduate,Science,Culturals,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,3,Passion,0,Corporate Employee,7.5
+177,21,Male,Post Graduate,Science,Culturals,No Experience,Corporate Job,10.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,5,Money,1,Corporate Employee,8.01
+178,20,Female,Under Graduate,Science,Sports,No Experience,Corporate Job,8.0,No Experience,Attended Corporate events,Can efficiently work with AI tools,4,Money,1,Corporate Employee,9.12
+179,21,Female,Under Graduate,Commerce,Culturals,No Experience,Startup,10.0,Event Management,No Experience,Can efficiently work with AI tools,2,Freedom,1,Corporate Employee,9.26
+180,23,Male,Post Graduate,Science,Sports,No Experience,Startup,8.0,Student Council Member,Attended Corporate events,Can efficiently work with AI tools,9,Passion,1,Government Officer,8.16
+181,21,Male,Under Graduate,Commerce,Sports,Internship,Startup,6.0,Event Management,Attended Conferences,Comfortable using newly launched technologies,4,Passion,1,Entrepreneur,8.9
+182,20,Female,Under Graduate,Commerce,Not Participated,No Experience,Startup,5.0,No Experience,No Experience,Can efficiently work with AI tools,8,Passion,0,Government Officer,9.08
+183,20,Female,Post Graduate,Commerce,Culturals,Part Time,Startup,7.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,5,Work-life Balance,1,Research/Scientist,8.6
+184,20,Female,Under Graduate,Science,Culturals,Internship,Corporate Job,6.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,1,Work-life Balance,0,Corporate Employee,8.7
+185,20,Female,Under Graduate,Science,Culturals,Internship,Corporate Job,8.0,Student Council Member,Attended Conferences,Comfortable using newly launched technologies,1,Social Impact,1,Corporate Employee,8.61
+186,20,Female,Under Graduate,Science,Culturals,No Experience,Freelance,5.0,No Experience,Attended Conferences,Comfortable using newly launched technologies,4,Work-life Balance,1,Freelancer,8.4
+187,21,Male,Under Graduate,Science,Sports,No Experience,Freelance,5.0,No Experience,No Experience,Good Coding knowledge,5,Freedom,3,,9.0
+188,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,7.0,No Experience,No Experience,Can efficiently work with AI tools,7,Money,0,Corporate Employee,9.45
+189,22,Male,Post Graduate,Science,Sports,No Experience,Startup,7.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Passion,2,Entrepreneur,8.21
+190,21,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,9.0,No Experience,No Experience,Good Coding knowledge,7,Passion,1,Corporate Employee,9.0
+191,22,Male,Post Graduate,Science,Sports,No Experience,Corporate Job,10.0,No Experience,No Experience,Good Coding knowledge,5,Money,0,Entrepreneur,8.0
+192,21,Male,Under Graduate,Science,Debate,Part Time,Corporate Job,5.0,Event Management,No Experience,Good Coding knowledge,3,Social Impact,0,Entrepreneur,9.68
+193,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,10.0,Student Council Member,Attended Corporate events,Comfortable using newly launched technologies,10,Passion,1,Corporate Employee,7.89
+194,21,Female,Under Graduate,Science,Culturals,No Experience,Corporate Job,10.0,Event Management,Attended Conferences,Good Coding knowledge,5,Work-life Balance,0,Corporate Employee,8.87
+195,22,Female,Post Graduate,Science,Debate,No Experience,Corporate Job,2.0,Event Management,Attended Corporate events,Good Coding knowledge,6,Passion,1,Corporate Employee,9.02
+196,23,Female,Post Graduate,Science,Sports,No Experience,Corporate Job,6.0,No Experience,Attended Corporate events,Good Coding knowledge,8,Work-life Balance,1,Government Officer,8.1
+197,23,Male,Under Graduate,Science,Culturals,Part Time,Corporate Job,10.0,Event Management,Attended Corporate events,Comfortable using newly launched technologies,2,Work-life Balance,1,Corporate Employee,8.2
+198,20,Female,Under Graduate,Science,Culturals,Internship,Startup,10.0,Event Management,No Experience,Can efficiently work with AI tools,10,Money,1,Entrepreneur,8.2
+199,22,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,8.0,No Experience,No Experience,Comfortable using newly launched technologies,7,Money,2,Corporate Employee,9.16
+200,22,Male,Post Graduate,Science,Sports,Internship,Startup,8.0,No Experience,No Experience,Good Coding knowledge,5,Money,0,Government Officer,6.56
+201,21,Male,Post Graduate,Commerce,Sports,No Experience,Corporate Job,6.0,No Experience,No Experience,Comfortable using newly launched technologies,5,Work-life Balance,2,Corporate Employee,6.0
+202,21,Female,Under Graduate,Commerce,Culturals,Internship,Corporate Job,5.0,No Experience,Attended Corporate events,Good Coding knowledge,5,Work-life Balance,1,Corporate Employee,9.06
+203,21,Male,Under Graduate,Commerce,Sports,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Good Coding knowledge,5,Passion,1,Corporate Employee,8.3
+204,20,Female,Post Graduate,Commerce,Sports,Internship,Corporate Job,10.0,Event Management,Attended Conferences,Can efficiently work with AI tools,5,Money,1,Corporate Employee,8.5
+205,21,Female,Under Graduate,Commerce,Not Participated,No Experience,Corporate Job,5.0,No Experience,No Experience,Can efficiently work with AI tools,4,Money,1,Corporate Employee,9.35
+206,20,Female,Under Graduate,Commerce,Sports,Internship,Corporate Job,8.0,Student Council Member,No Experience,Comfortable using newly launched technologies,6,Work-life Balance,1,,9.6
+207,21,Female,Under Graduate,Commerce,Culturals,No Experience,Corporate Job,9.0,No Experience,No Experience,Good Coding knowledge,3,Passion,1,Entrepreneur,9.28
+208,20,Male,High School,Commerce,Sports,Internship,Freelance,8.0,No Experience,Attended Conferences,Can efficiently work with AI tools,1,Work-life Balance,1,,7.0
+209,23,Female,Post Graduate,Science,Culturals,Internship,Corporate Job,8.0,No Experience,Attended Corporate events,Comfortable using newly launched technologies,8,Passion,3,Government Officer,7.7

@@ -6,13 +6,17 @@ import pickle
 
 df = pd.read_csv('Cleaned_data.csv')
 
-with open("pipeline.pkl", "rb") as f:
-    pipeline = pickle.load(f)
+with open("model.pkl", "rb") as f:
+    model = pickle.load(f)
 with open("encoder.pkl", "rb") as f:
     encoder = pickle.load(f)
-
+with open("onehot_model.pkl", "rb") as f:
+    onehot_encoder = pickle.load(f)
+categorical_columns = ['Gender', 'Highest Education Level', 'Preferred Subjects in Highschool/College', 
+                        'Participation in Extracurricular Activities', 'Previous Work Experience (If Any)', 
+                        'Preferred Work Environment', 'Leadership Experience', 'Networking & Social Skills', 
+                        'Tech-Savviness', 'Motivation for Career Choice ']
 st.title("Career Choice")
-
 
 with st.form("Data_collection"):
     age = st.selectbox("How old are you?", list(range(18, 26)), index=0)
@@ -41,8 +45,6 @@ with st.form("Data_collection"):
 
     financial_stability = st.number_input("How stable is your family financially?, 10 being the highest and 0 being the lowest?", min_value=0, max_value=10, value=0)
 
-    career_goal = st.selectbox("Long-Term Career Goal", list(df['Long-Term Career Goal'].unique()), index=0)
-
     motivation = st.selectbox("Motivation for Career Choice", list(df['Motivation for Career Choice '].unique()), index=0)
 
     siblings = st.number_input("How many siblings do you have?", min_value=0, max_value=10, value=0)
@@ -58,20 +60,22 @@ if submitted:
     'Participation in Extracurricular Activities': [activities],
     'Previous Work Experience (If Any)': [work_experience],
     'Preferred Work Environment': [prefered_work_environment],
-    'Risk-Taking Ability': [int(risk)],
+    'Risk-Taking Ability ': [int(risk)],
     'Leadership Experience': [leadership],
     'Networking & Social Skills': [networking],
     'Tech-Savviness': [tech_savviness],
     'Financial Stability - self/family (1 is low income and 10 is high income)': [int(financial_stability)],
-    'Long-Term Career Goal': [career_goal],
-    'Motivation for Career Choice': [motivation],
+    'Motivation for Career Choice ': [motivation],
     'Number of Siblings': [int(siblings)],
     'CGPA': [cgpa]
     }
 
     df_to_predict = pd.DataFrame(temp_dict)
+    temp = onehot_encoder.transform(df_to_predict[categorical_columns])
+    temp_df = pd.DataFrame(temp, columns = onehot_encoder.get_feature_names_out(categorical_columns))
+    df_to_predict = pd.concat([df_to_predict.drop(columns=categorical_columns), temp_df], axis=1)
     
-    predicted_value = pipeline.predict(df_to_predict)
+    predicted_value = model.predict(df_to_predict)
     
     data = encoder.inverse_transform(predicted_value)
 
